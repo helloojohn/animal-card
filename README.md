@@ -20,7 +20,7 @@ This is a solution to the [Animal card task on learnable 2022](https://www.front
 
 ### Screenshot
 
-![](./images/QR-code-component-solution%20.png)
+![](./images/Screen%20Shot%202022-12-19%20at%209.59.11%20PM.png)
 
 ### Links
 
