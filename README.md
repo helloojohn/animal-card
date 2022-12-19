@@ -25,8 +25,8 @@ This is a solution to the [Animal card task on learnable 2022](https://www.front
 
 ### Links
 
--  [Solution](https://github.com/khodepanda/qr-code-component)
--  [Live Site](https://qr-code-solu.netlify.app/)
+-  [Solution](https://github.com/khodepanda/animal-card)
+-  [Live Site](https://frosts.netlify.app/)
 
 ## My process
 
